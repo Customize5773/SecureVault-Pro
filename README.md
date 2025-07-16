@@ -56,13 +56,7 @@ curl -k -H "X-API-Key: YOUR_KEY" https://vault-ip/control \
 - GDPR Article 32 Requirements  
 
 ## License  
-Released under the MIT LICENSE.
-
-## Support  
-For technical inquiries, open an issue in this repository or contact security@securevault.pro. Include device revision number from bottom label in all communications.  
-
-## Contributing  
-Submit pull requests to the development branch. All contributions must include signed-off developer certificate of origin. Security vulnerabilities should be reported via encrypted email to security@securevault.pro using PGP key 0x8F3C2A1B.  
+Released under the `MIT LICENSE`.
 
 ## Version History  
 - v1.0 (2025-01-15): Initial release  
