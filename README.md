@@ -25,7 +25,7 @@ SecureVault Pro is an advanced access control system combining physical and digi
 pio run -t upload
 ```  
 
-2. Assemble mechanical components following [assembly guide](docs/assembly_guide.md)  
+2. Assemble mechanical components following [assembly guide](enclosure/assembly_guide.md)  
 
 3. Configure WiFi via serial console or web portal:  
 ```
