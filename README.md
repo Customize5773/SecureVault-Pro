@@ -45,10 +45,9 @@ curl -k -H "X-API-Key: YOUR_KEY" https://vault-ip/control \
 ```  
 
 ## Documentation  
-- [Hardware Schematics](hardware/schematics/schematics.md)  
+- [Hardware Schematics](hardware/schematics/Electrical_schematics.md)  
 - [API Reference](docs/api_reference.md)  
 - [Security Architecture](docs/security_features.md)  
-- [Firmware Development](firmware/README.md)  
 
 ## Compliance  
 - NIST SP 800-193 (Platform Firmware Resilience)  
