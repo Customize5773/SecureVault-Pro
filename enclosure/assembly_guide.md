@@ -167,5 +167,3 @@ After assembly, verify:
 | Electronics | 2 years | Reapply conformal coating |  
 
 ---
-
-> **Support**: community.securevault.pro | support@securevault.pro
