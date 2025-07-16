@@ -141,14 +141,6 @@ Servo GND ───────────── GND
 
 ---
 
-## Design Files  
-1. [Schematic PDF](schematics_v2.1.pdf)  
-2. [PCB Layout](pcb_layout_v2.1.kicad_pcb)  
-3. [3D Model](enclosure_v2.step)  
-4. [BOM CSV](bom_v2.1.csv)  
-
----
-
 ## Revision History  
 | Version | Changes                     | Date       |  
 |---------|-----------------------------|------------|  
