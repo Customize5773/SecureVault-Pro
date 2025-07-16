@@ -1,0 +1,9 @@
+Required Libraries:
+- Adafruit SH110X (OLED display)
+- AsyncElegantOTA (Secure OTA updates)
+- AsyncTCP (Asynchronous TCP stack)
+- ESP Async WebServer (HTTPS server)
+- ESP32Servo (Precision servo control)
+- BatterySense (Battery monitoring)
+- ESPAsync_WiFiManager (WiFi configuration)
+- mbedtls (TLS/SSL encryption)
